@@ -1,2 +1,1 @@
-Lista de exercícios da disciplina de Estrutura de Dados, do módulo II do curso
-de Análise e Desenvolvimento de Software do SENAC/RJ.
+Lista de exercícios da disciplina de Estrutura de Dados do módulo II do curso de Análise e Desenvolvimento de Sistemas do SENAC/RJ.
